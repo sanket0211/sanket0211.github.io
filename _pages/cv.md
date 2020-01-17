@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech in Computer Science, 2018
+* M.S. by Research in Computational Natural Science, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2019 -- Present: Research Fellow
+  * Microsoft Research, Bangalore, India
+  * Exploring Deep Learning Techniques for Speech Processing / Synthesis. 
+  * Supervisor: Sunayana Sitaram
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* February 2019 -- July 2019: Research Intern
+  * Microsoft Research, Bangalore, India
+  * Exploring Techniques for keyword spotting in audios especially when data available is scarce
   
 Skills
 ======

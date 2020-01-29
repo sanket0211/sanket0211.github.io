@@ -7,7 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
 This is Sanket Shah's Personal Website
 
